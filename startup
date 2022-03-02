@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Ultroid - UserBot
+
 # Copyright (C) 2021-2022 TeamUltroid
 #
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
@@ -12,7 +12,7 @@ echo "
             ┃┃┃┗┫┏┫┏┫╋┃┃╋┃
             ┗━┻━┻━┻┛┗━┻┻━┛
 
-      Visit @TheUltroid for updates!!
+
 
 "
 if [ -f .env ] ; then  set -o allexport; source .env; set +o allexport ; fi
