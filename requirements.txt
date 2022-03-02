@@ -2,4 +2,5 @@
 
 https://github.com/New-dev0/Telethon/archive/Artifact.zip
 https://github.com/root-test7/py-ultra-UB/archive/refs/heads/main.zip
-pytgcalls==
+https://github.com/root-test7/pyt-ultUB/archive/refs/heads/dev.zip
+https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
